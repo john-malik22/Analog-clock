@@ -31,7 +31,7 @@ This project displays real-time hours, minutes, and seconds using dynamic rotati
 ## 🌐 Live Demo
 (Add your GitHub Pages link here)  
 Example:  
-https://yourusername.github.io/analog-clock/
+https://john-malik22.github.io/analog-clock/
 
 ---
 
